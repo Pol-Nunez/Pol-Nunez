@@ -2,17 +2,17 @@
 
 [English] | [**Español**](./README.es.md)
 
-### 🚀 About me
+### About me
 I am a **Software Development student (DAM)** with a solid background in **Systems Administration and Cybersecurity (ASIX)**. Currently, I am applying my technical skills at **Grifols** (ITPMO department), where I develop automation and digitalization solutions.
 
-- 🔭 **Currently working on:** Document management app using Power Platform for Grifols.
-- 🌱 **Learning:** Fullstack development with **Angular** and **MongoDB**.
-- 🛠️ **Core Stack:** Java (Spring Boot), Linux Administration, and Docker.
-- 💬 **Interests:** Backend Development, Systems Automation, and Japanese culture.
+- **Currently working on:** Document management app using Power Platform for Grifols.
+- **Learning:** Fullstack development with **Angular** and **MongoDB**.
+- **Core Stack:** Java (Spring Boot), Linux Administration, and Docker.
+- **Interests:** Backend Development, Systems Automation, and Japanese culture.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I am a **Software Development student (DAM)** with a solid background in **Syste
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![Pol's Stats](https://github-readme-stats.vercel.app/api?username=pmliixx&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmliixx&layout=compact&theme=tokyonight)
 
