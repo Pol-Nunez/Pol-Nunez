@@ -25,7 +25,7 @@ I am a **Software Development student (DAM)** with a solid background in **Syste
 ---
 
 ### GitHub Stats
-![Pol's Stats](https://github-readme-stats.vercel.app/api?username=pmliixx&show_icons=true&theme=tokyonight&count_private=true)
+![Pol's Stats](https://github-readme-stats.vercel.app/api?username=Pol-Nunez&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmliixx&layout=compact&theme=tokyonight)
 
 ---
